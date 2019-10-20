@@ -20,5 +20,4 @@ fido.name
 # => "Fido"
  
 fido.bark
-woof!
 # => nil
